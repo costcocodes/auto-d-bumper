@@ -1,2 +1,4 @@
 # auto d bumper
- Will 
+ Will automatically "bump" your discord server on disboard.
+ Use ".b bump" to start.
+ Make sure to use an alt.
